@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.py
+model/microsoft_model.h5
+model/scaler_microdpft.pkl
